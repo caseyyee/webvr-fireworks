@@ -1,0 +1,19 @@
+{
+  "name": "vr-message",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "budo index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "budo": "^9.3.0"
+  },
+  "dependencies": {
+    "three": "^0.83.0",
+    "three-vr-viewer": "^2.2.0"
+  }
+}
