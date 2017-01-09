@@ -1,5 +1,7 @@
 # WebVR Fireworks
 
+[Play now!](caseyyee.github.io/webvr-fireworks)
+
 To view:
 
 0. Install a WebVR enabled browser.  Setup Instructions for Firefox Nightly and WebVR enabled Chromium available on [mozvr.com](https://mozvr.com/#start)
